@@ -2,6 +2,7 @@
 
 ### Step 1
 Download the latest version of [NodeJS](https://nodejs.org/) and follow the install instructions. 
+[](https://imgur.com/Y6SmfJ7)
 
 ### Step 2
 Navigate to the file path the bot is saved in using command prompt and the ``cd [FILEPATH]`` command.
