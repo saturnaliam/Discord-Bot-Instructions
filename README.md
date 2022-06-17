@@ -1,1 +1,3 @@
-# Discord-Bot-Instructions
+# Discord Bot Instructions
+
+### Step 1
