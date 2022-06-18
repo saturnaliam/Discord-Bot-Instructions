@@ -18,6 +18,7 @@ In Discord, go to Settings, then Advanced, and once there, enable "Developer Mod
 
 ### Step 5
 Navigate to the server you would like to add the Discord bot to (you MUST be an administrator of said server), right click, and click "Copy ID"
+
 ![](https://imgur.com/Ojqq7Tl.png)
 
 ### Step 6
