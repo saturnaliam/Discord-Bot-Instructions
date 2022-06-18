@@ -1,10 +1,5 @@
-# Discord Bot Instructions
+# READ EULA PRIOR TO USE
 
-**READ EULA PRIOR TO USE**
-
-*Note: ``instructions.txt`` contains more detailed instructions.*
-
----
 ### Step 1
 Download the latest version of [NodeJS](https://nodejs.org/) and follow the install instructions. 
 ![](https://imgur.com/Y6SmfJ7.png)
